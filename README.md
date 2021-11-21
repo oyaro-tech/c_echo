@@ -1,2 +1,3 @@
-# c_echo
-Simple echo server in c
+# C_ECHO
+
+Simple example of echo server in C
